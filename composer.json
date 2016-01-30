@@ -1,0 +1,23 @@
+{
+  "name": "cococollective/coco-ux",
+  "description": "Drupal module: Provides UX improvements.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "require": {
+    "drupal/drupal": "7.*",
+    "drupal/features": "7.*"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": "true",
+  "extra": {
+    "branch-alias": {
+      "dev-7.x-0.x": "7.0.x-dev"
+    }
+  },
+  "authors": [
+    {
+      "name": "Sierk Beij",
+      "email": "sierk@cococollective.org"
+    }
+  ]
+}
