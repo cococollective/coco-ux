@@ -8,7 +8,7 @@
   "require": {
     "drupal/drupal": "7.*",
     "drupal/features": "7.*",
-    "drupal/strongarm": "7.*",
+    "drupal/strongarm": "7.*"
   },
   "minimum-stability": "dev",
   "prefer-stable": "true"
